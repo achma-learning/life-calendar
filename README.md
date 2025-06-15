@@ -1,4 +1,4 @@
-# Life Calendar
+# Life Calendar (4,000week)
 
 A Kurzgesagt based visualization of time.
 ![](/public/demo.png)
