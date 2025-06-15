@@ -7,3 +7,4 @@ Design and inspiration was sourced from this poster https://shop-us.kurzgesagt.o
 # https://waitbutwhy.com/2014/05/life-weeks.html
 # https://shop-us.kurzgesagt.org/collections/minimalistic-posters/products/lifespan-timeline-poster?variant=39451591770160
 # https://shop-us.kurzgesagt.org/collections/posters/products/lifespan-calendar-poster
+# https://shop-us.kurzgesagt.org/collections/posters/products/lifespan-calendar-poster-black-white?variant=40572569288752
