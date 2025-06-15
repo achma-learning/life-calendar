@@ -1,4 +1,5 @@
 # Life Calendar (4,000week)
+## make 40 peak performace, like sun rise and sun set, gaussien graph
 
 A Kurzgesagt based visualization of time.
 ![](/public/demo.png)
