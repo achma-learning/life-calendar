@@ -12,4 +12,4 @@ export const defaultSideLabelStyles: TextProps = {
   transform: "rotate(90deg)",
 };
 
-export const defaultBdayData = { month: 1, day: 1, year: 2000 };
+export const defaultBdayData = { month: 3, day: 1, year: 2004 };
