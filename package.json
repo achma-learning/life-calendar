@@ -8,9 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@chakra-ui/icons": "^2.1.1",
-    "@chakra-ui/react": "^2.8.2",
-    "@chakra-ui/system": "^2.8.2",
+    "@chakra-ui/icons": "^2.0.5", // Latest compatible version with 2.6.2
+    "@chakra-ui/react": "^2.6.2", // Aligned with @chakra-ui/system
+    "@chakra-ui/system": "^2.6.2", // Latest available version
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@babel/core": "^7.24.9",
