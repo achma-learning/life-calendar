@@ -4,6 +4,8 @@
 # Life Calendar (4,000week)== 76.71y
 ## but healthy life expectancy = 65 years at average
 ## make 40 peak performace, like sun rise and sun set, gaussien graph
+### https://raw.githubusercontent.com/achma-learning/life-calendar/main/life.png
+
 
 A Kurzgesagt based visualization of time.
 ![](/public/demo.png)
